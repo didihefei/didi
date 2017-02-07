@@ -1,0 +1,4 @@
+
+[submodule "images"]
+	path = src/assets/images
+	url = https://github.com/didihefei/made-mistakes-images.git
